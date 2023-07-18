@@ -1,28 +1,21 @@
 {
   "files": {
-    "main.css": "https://simapps.github.io/csb-mh9j3c/static/css/main.8ec895b6.chunk.css",
-    "main.js": "https://simapps.github.io/csb-mh9j3c/static/js/main.f3d221cd.chunk.js",
-    "main.js.map": "https://simapps.github.io/csb-mh9j3c/static/js/main.f3d221cd.chunk.js.map",
-    "runtime-main.js": "https://simapps.github.io/csb-mh9j3c/static/js/runtime-main.d4b74a78.js",
-    "runtime-main.js.map": "https://simapps.github.io/csb-mh9j3c/static/js/runtime-main.d4b74a78.js.map",
-    "static/js/2.a94296cc.chunk.js": "https://simapps.github.io/csb-mh9j3c/static/js/2.a94296cc.chunk.js",
-    "static/js/2.a94296cc.chunk.js.map": "https://simapps.github.io/csb-mh9j3c/static/js/2.a94296cc.chunk.js.map",
-    "index.html": "https://simapps.github.io/csb-mh9j3c/index.html",
-    "static/css/main.8ec895b6.chunk.css.map": "https://simapps.github.io/csb-mh9j3c/static/css/main.8ec895b6.chunk.css.map",
-    "static/js/2.a94296cc.chunk.js.LICENSE.txt": "https://simapps.github.io/csb-mh9j3c/static/js/2.a94296cc.chunk.js.LICENSE.txt",
-    "static/media/avatar.a825bdc4.png": "https://simapps.github.io/csb-mh9j3c/static/media/avatar.a825bdc4.png",
-    "static/media/avatarMasked.3d043a5a.png": "https://simapps.github.io/csb-mh9j3c/static/media/avatarMasked.3d043a5a.png",
-    "static/media/cat.4e218270.gif": "https://simapps.github.io/csb-mh9j3c/static/media/cat.4e218270.gif",
-    "static/media/mament.1cc63e6d.png": "https://simapps.github.io/csb-mh9j3c/static/media/mament.1cc63e6d.png",
-    "static/media/note.fd62e68f.png": "https://simapps.github.io/csb-mh9j3c/static/media/note.fd62e68f.png",
-    "static/media/profilePhoto.cb73f7e7.jpg": "https://simapps.github.io/csb-mh9j3c/static/media/profilePhoto.cb73f7e7.jpg",
-    "static/media/sigud.51e5732b.png": "https://simapps.github.io/csb-mh9j3c/static/media/sigud.51e5732b.png",
-    "static/media/tamanzakat.09409fe9.png": "https://simapps.github.io/csb-mh9j3c/static/media/tamanzakat.09409fe9.png"
+    "main.css": "/rami_hamdi_blog/static/css/main.e29f9b52.css",
+    "main.js": "/rami_hamdi_blog/static/js/main.d4c2fa8c.js",
+    "static/media/profilePhoto.jpg": "/rami_hamdi_blog/static/media/profilePhoto.cb73f7e792d6ebd560f9.jpg",
+    "static/media/avatarMasked.png": "/rami_hamdi_blog/static/media/avatarMasked.3d043a5a54963c623e4f.png",
+    "static/media/avatar.png": "/rami_hamdi_blog/static/media/avatar.a825bdc43b6b666b0b01.png",
+    "static/media/tamanzakat.png": "/rami_hamdi_blog/static/media/tamanzakat.09409fe9fdf1eb0a17d6.png",
+    "static/media/sigud.png": "/rami_hamdi_blog/static/media/sigud.51e5732b96f84b267c6d.png",
+    "static/media/mament.png": "/rami_hamdi_blog/static/media/mament.1cc63e6dafea4d50f7dd.png",
+    "static/media/note.png": "/rami_hamdi_blog/static/media/note.fd62e68f235694a20eab.png",
+    "static/media/cat.gif": "/rami_hamdi_blog/static/media/cat.4e2182700aec0d9890f7.gif",
+    "index.html": "/rami_hamdi_blog/index.html",
+    "main.e29f9b52.css.map": "/rami_hamdi_blog/static/css/main.e29f9b52.css.map",
+    "main.d4c2fa8c.js.map": "/rami_hamdi_blog/static/js/main.d4c2fa8c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4b74a78.js",
-    "static/js/2.a94296cc.chunk.js",
-    "static/css/main.8ec895b6.chunk.css",
-    "static/js/main.f3d221cd.chunk.js"
+    "static/css/main.e29f9b52.css",
+    "static/js/main.d4c2fa8c.js"
   ]
 }

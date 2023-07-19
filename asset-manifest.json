@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rami_hamdi_blog/static/css/main.e29f9b52.css",
-    "main.js": "/rami_hamdi_blog/static/js/main.d4c2fa8c.js",
+    "main.js": "/rami_hamdi_blog/static/js/main.e113f2b6.js",
     "static/media/profilePhoto.jpg": "/rami_hamdi_blog/static/media/profilePhoto.cb73f7e792d6ebd560f9.jpg",
     "static/media/avatarMasked.png": "/rami_hamdi_blog/static/media/avatarMasked.3d043a5a54963c623e4f.png",
     "static/media/avatar.png": "/rami_hamdi_blog/static/media/avatar.a825bdc43b6b666b0b01.png",
@@ -12,10 +12,10 @@
     "static/media/cat.gif": "/rami_hamdi_blog/static/media/cat.4e2182700aec0d9890f7.gif",
     "index.html": "/rami_hamdi_blog/index.html",
     "main.e29f9b52.css.map": "/rami_hamdi_blog/static/css/main.e29f9b52.css.map",
-    "main.d4c2fa8c.js.map": "/rami_hamdi_blog/static/js/main.d4c2fa8c.js.map"
+    "main.e113f2b6.js.map": "/rami_hamdi_blog/static/js/main.e113f2b6.js.map"
   },
   "entrypoints": [
     "static/css/main.e29f9b52.css",
-    "static/js/main.d4c2fa8c.js"
+    "static/js/main.e113f2b6.js"
   ]
 }
